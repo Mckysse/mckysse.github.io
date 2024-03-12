@@ -11,7 +11,7 @@ Hi there! My name is Beiduo Chen.
 
 I'm currently an [ELLIS](https://ellis.eu/) Ph.D. student in The Center for Information and Language Processing [(CIS)](https://www.cis.uni-muenchen.de/) at Ludwig-Maximilians-Universität München [(LMU Munich)](https://www.lmu.de/), supervised by Prof. Dr. [Barbara Plank](https://bplank.github.io/) who is leading [MaiNLP Lab](https://mainlp.github.io/), and co-supervised by Prof. Dr. [Anna Korhonen](https://sites.google.com/site/annakorhonen/) in Language Technology Laboratory [(LTL)](http://ltl.mml.cam.ac.uk/) at [University of Cambridge](https://www.cam.ac.uk/).
 
-Before that, I received my master degree with an outstanding graduate award from University of Science and Technology of China [(USTC)](http://en.ustc.edu.cn/), supervised by Prof. Dr. [Wu Guo](https://eeis.ustc.edu.cn/2011/0314/c2615a19383/page.htm), and co-advised by Prof. Dr. [Zhen-Hua Ling](ttp://staff.ustc.edu.cn/~zhling) at [USTC NLP Group](https://ustcnlp.github.io/).
+Before that, I received my Master and Bachelor's degree with an outstanding graduate award from University of Science and Technology of China [(USTC)](http://en.ustc.edu.cn/), supervised by Prof. Dr. [Wu Guo](https://eeis.ustc.edu.cn/2011/0314/c2615a19383/page.htm), and co-advised by Prof. Dr. [Zhen-Hua Ling](ttp://staff.ustc.edu.cn/~zhling) at [USTC NLP Group](https://ustcnlp.github.io/).
 
 My main research interests lie within deep learning for natural language processing, and I am particularly interested in multilinguality.
 
