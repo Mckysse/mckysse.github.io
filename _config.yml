@@ -36,9 +36,10 @@ author:
   googlescholar    : "https://scholar.google.com/citations?hl=en-US&user=YQbK4G4AAAAJ"
   # impactstory      : # URL
   orcid            : "https://orcid.org/0000-0002-3838-5466"
-  semanticscholar  : "https://www.semanticscholar.org/author/Beiduo-Chen/2108382686"
+  # semanticscholar  : "https://www.semanticscholar.org/author/Beiduo-Chen/2108382686"
+  # dblp             : "https://dblp.org/pid/314/7027.html"
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : "https://www.researchgate.net/profile/Beiduo_Chen"
+  # researchgate     : "https://www.researchgate.net/profile/Beiduo_Chen"
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
@@ -49,7 +50,7 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  # bluesky          : "bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
@@ -66,7 +67,8 @@ author:
   steam            : # Username
   telegram         : # URL
   tumblr           : # Username
-  twitter          : "UniofOxford"  # Replace this with your X / Twitter handle
+  # twitter          : "UniofOxford"  # Replace this with your X / Twitter handle
+  X : Beiduo_Chen
   vine             : # Username
   weibo            : # Username
   wikipedia        : # Username
