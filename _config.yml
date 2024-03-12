@@ -25,7 +25,7 @@ author:
   avatar           : "profile.png"
   name             : "Beiduo Chen"
   pronouns         : # example: "she/her"  
-  bio              : "First Year PhD Student @ LMU Munich"
+  bio              : "PhD Student @ LMU Munich"
   location         : "Germany"
   employer         : "Ludwig-Maximilians-University of Munich"
   uri              : # URL
@@ -67,8 +67,7 @@ author:
   steam            : # Username
   telegram         : # URL
   tumblr           : # Username
-  # twitter          : "UniofOxford"  # Replace this with your X / Twitter handle
-  X : “Beiduo_Chen”
+  twitter          : "Beiduo_Chen"  # Replace this with your X / Twitter handle
   vine             : # Username
   weibo            : # Username
   wikipedia        : # Username
