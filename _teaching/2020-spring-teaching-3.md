@@ -1,5 +1,5 @@
 ---
-title: "Signals and Systems (210049, 210049.05"
+title: "Signals and Systems 210049, 210049.05"
 collection: teaching
 type: "Undergraduate theory course"
 permalink: /teaching/2020-spring-teaching-3
