@@ -10,13 +10,11 @@ location: "Hefei, China"
 
 Serve as: Teaching Assistant
 
-Course Description:
-======
+## Course Description:
 
 The course mainly includes the basic concepts for both continuous-time and discrete-time signals and systems, analysis of signals and systems in both time and frequency domains, the basic attributes of linear time-invariant systems, Fourier analysis of continuous-time signals and systems, Laplace analysis of continuous-time systems, Z domain analysis of discrete-time systems, system function, system stability, signal flow diagram, system simulation, analysis of system states. The objective of the course is for students to gain the theoretic basis of signal and system analysis, so that they can further study the theory on information transmission and processing, communication, control, and network.
 
-Course Details:
-======
+## Course Details:
 
 TextBook: 
 * 《Signals and Systems Theory, Methods and Applications》 3rd Edition; Xu Shoushi et al.; University of Science and Technology of China Press 
