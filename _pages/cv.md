@@ -12,14 +12,14 @@ redirect_from:
 A PDF version of my Resume is [here](https://mckysse.github.io/files/Resume_bdchen_EN.pdf).
 
 
-Education
-======
+## Education
+
 * Ph.D. Candidate in Natural Language Processing, Ludwig-Maximilians-Universität München, 2024 - 2027 (expected)
 * Master of Engineering in Information and Communication Engineering, University of Science and Technology of China, 2020 - 2023
 * Bachelor of Engineering in Electronic and Information Engineering, University of Science and Technology of China, 2016 - 2020
 
-Work experience
-======
+## Work experience
+
 * June 2022 - January 2023: Research intern
   * [Microsoft Research Asia](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/), Beijing, China
   * Research at the natural language computing group, focus on pre-training methods based on ELECTRA.
@@ -44,8 +44,8 @@ Work experience
   * Sub-skill 2.3
 * Skill 3 -->
 
-Publications
-======
+## Publications
+
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
@@ -56,22 +56,22 @@ Publications
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul> -->
   
-Teaching
-======
+## Teaching
+
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
 
-Service and leadership
-======
+## Service and leadership
+
 * Program committee/reviewing:
     * Conference: ACL 2023/2024, EMNLP 2023, ICASSP 2022, ICPR 2022
     * Journal: TPAMI
 
 
-Honors
-======
+## Honors
+
 * 2023 Outstanding Graduate Award of University of Science and Technology of China.
 * 2023 Outstanding Graduate Award of Ordinary Colleges and Universities in Anhui Province.
 * 2022 China National Scholarship.
@@ -81,8 +81,8 @@ Honors
 * 2018 The third prize (provincial) in [Contemporary Undergraduate Mathematical Contest in Modeling of China](http://www.mcm.edu.cn/).
 * 2017 Gold Award for Outstanding Student.
 
-Patent
-======
+## Patent
+
 基于数据增强训练的多特征融合神经机器翻译检错方法 (CN112926345A) [[pdf]](files/patent_0)<br> 
 陈贝多, 黄青青, 杜俊 <br> 
 China National Intellectual Property Administration [(CNIPA)](http://www.cnipa.gov.cn/) <br>
