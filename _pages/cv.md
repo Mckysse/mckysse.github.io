@@ -64,7 +64,6 @@ A PDF version of my Resume is [here](https://mckysse.github.io/files/Resume_bdch
     * Conference: ACL 2023/2024, EMNLP 2023, ICASSP 2022, ICPR 2022
     * Journal: TPAMI
 
-
 ## Honors
 * 2023 Outstanding Graduate Award of University of Science and Technology of China.
 * 2023 Outstanding Graduate Award of Ordinary Colleges and Universities in Anhui Province.
