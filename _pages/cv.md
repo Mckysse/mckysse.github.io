@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D Candidate in Natural Language Processing, Ludwig-Maximilians-Universität München, 2024 - 2027 (expected)
+* Ph.D. Candidate in Natural Language Processing, Ludwig-Maximilians-Universität München, 2024 - 2027 (expected)
 * Master of Engineering in Information and Communication Engineering, University of Science and Technology of China, 2020 - 2023
 * Bachelor of Engineering in Electronic and Information Engineering, University of Science and Technology of China, 2016 - 2020
 
