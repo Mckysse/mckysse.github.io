@@ -9,4 +9,33 @@ paperurl: 'https://aclanthology.org/2022.semeval-1.223/'
 citation: 'Beiduo Chen, Jun-Yu Ma, Jiajun Qi, Wu Guo, Zhen-Hua Ling, and Quan Liu. 2022. USTC-NELSLIP at SemEval-2022 Task 11: Gazetteer-Adapted Integration Network for Multilingual Complex Named Entity Recognition. In Proceedings of the 16th International Workshop on Semantic Evaluation (SemEval-2022), pages 1613–1622, Seattle, United States. Association for Computational Linguistics.'
 ---
 
+## [Code](https://github.com/Mckysse/GAIN)
+
+## Abstract
 This paper describes the system developed by the USTC-NELSLIP team for SemEval-2022 Task 11 Multilingual Complex Named Entity Recognition (MultiCoNER). We propose a gazetteer-adapted integration network (GAIN) to improve the performance of language models for recognizing complex named entities. The method first adapts the representations of gazetteer networks to those of language models by minimizing the KL divergence between them. After adaptation, these two networks are then integrated for backend supervised named entity recognition (NER) training. The proposed method is applied to several state-of-the-art Transformer-based NER models with a gazetteer built from Wikidata, and shows great generalization ability across them. The final predictions are derived from an ensemble of these trained models. Experimental results and detailed analysis verify the effectiveness of the proposed method. The official results show that our system ranked 1st on three tracks (Chinese, Code-mixed and Bangla) and 2nd on the other ten tracks in this task.'
+
+
+## Poster
+<object data="https://mckysse.github.io/files/SemEval2022_GAIN_poster.pdf" type="application/pdf" width="900px" height="900px">
+    <embed src="https://mckysse.github.io/files/SemEval2022_GAIN_poster.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://mckysse.github.io/files/SemEval2022_GAIN_poster.pdf">Download PDF</a>.</p>
+    </embed>
+</object>
+
+
+## Arxiv
+<object data="https://arxiv.org/pdf/2203.03216.pdf" type="application/pdf" width="900px" height="900px">
+    <embed src="https://arxiv.org/pdf/2203.03216.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://arxiv.org/pdf/2203.03216.pdf">Download PDF</a>.</p>
+    </embed>
+</object>
+
+
+## Slides
+<object data="https://mckysse.github.io/files/SemEval2022_GAIN_slides.pdf" type="application/pdf" width="900px" height="900px">
+    <embed src="https://mckysse.github.io/files/SemEval2022_GAIN_slides.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://mckysse.github.io/files/SemEval2022_GAIN_slides.pdf">Download PDF</a>.</p>
+    </embed>
+</object>
+
+## Citation
