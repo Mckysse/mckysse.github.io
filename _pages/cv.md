@@ -9,6 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
+A PDF version of my Resume is [here](https://mckysse.github.io/files/Resume_bdchen_EN.pdf).
+
+
 Education
 ======
 * Ph.D. Candidate in Natural Language Processing, Ludwig-Maximilians-Universität München, 2024 - 2027 (expected)
@@ -84,6 +87,4 @@ Patent
 陈贝多, 黄青青, 杜俊 <br> 
 China National Intellectual Property Administration [(CNIPA)](http://www.cnipa.gov.cn/) <br>
 
-
-## [Resume](https://mckysse.github.io/files/Resume_bdchen_EN.pdf)
 
