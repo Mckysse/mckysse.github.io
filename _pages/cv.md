@@ -72,6 +72,7 @@ Honors
 * 2023 Outstanding Graduate Award of University of Science and Technology of China.
 * 2023 Outstanding Graduate Award of Ordinary Colleges and Universities in Anhui Province.
 * 2022 China National Scholarship.
+* 2022 Rank 1st on three tracks (Chinese, Code-mixed and Bangla), and rank 2nd on the other ten tracks in [SemEval-2022 Task 11 MultiCoNER](https://multiconer.github.io/), as the first author.
 * 2020 Suzhou Yucai Scholarship: Top 1 GPA (3.93/4.3) in the class (1/120) of that year.
 * 2019 Scholarship of the Institute of Electrics, Chinese Academy of Sciences: Top 3% GPA in the department of that year.
 * 2018 The third prize (provincial) in [Contemporary Undergraduate Mathematical Contest in Modeling of China](http://www.mcm.edu.cn/).
