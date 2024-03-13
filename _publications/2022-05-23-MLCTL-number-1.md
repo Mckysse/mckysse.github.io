@@ -31,7 +31,7 @@ Cross-language pre-trained models such as multilingual BERT (mBERT) have achieve
 </object>
 
 
-## [Slides](ttps://mckysse.github.io/files/ICASSP2022_ML-CTL_slides.pdf)
+## [Slides](https://mckysse.github.io/files/ICASSP2022_ML-CTL_slides.pdf)
 <object data="https://mckysse.github.io/files/ICASSP2022_ML-CTL_slides.pdf" type="application/pdf" width="900px" height="900px">
     <embed src="https://mckysse.github.io/files/ICASSP2022_ML-CTL_slides.pdf">
         <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://mckysse.github.io/files/ICASSP2022_ML-CTL_slides.pdf">Download PDF</a>.</p>
