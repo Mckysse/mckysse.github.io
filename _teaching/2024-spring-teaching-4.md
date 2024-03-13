@@ -32,13 +32,13 @@ Week 8 (June 4) -- Paper presentation
 
 Week 9 (June 11) -- Paper presentation
 
-Week 10 (June 18)-- Paper presentation
+Week 10 (June 18) -- Paper presentation
 
 Week 11 (June 25) -- Paper presentation
 
-Week 12 (July 2)-- Intermediate project updates & peer feedbacks
+Week 12 (July 2) -- Intermediate project updates & peer feedbacks
 
-Week 13 (July 9)-- Project week
+Week 13 (July 9) -- Project week
 
 Week 14 (July 16) -- Project week
 
