@@ -80,5 +80,5 @@ Honors
 Patent
 ======
 基于数据增强训练的多特征融合神经机器翻译检错方法 (CN112926345A)<br> 
-陈贝多, 黄青青, 杜俊 
+陈贝多, 黄青青, 杜俊 <br> 
 China National Intellectual Property Administration [(CNIPA)](http://www.cnipa.gov.cn/)
