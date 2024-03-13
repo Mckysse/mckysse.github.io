@@ -11,35 +11,35 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D Candidate in Natural Language Processing, Ludwig-Maximilians-Universität München, 2024 - 2027 (expected)
+* Master of Engineering in Information and Communication Engineering, University of Science and Technology of China, 2020 - 2023
+* Bachelor of Engineering in Electronic and Information Engineering, University of Science and Technology of China, 2016 - 2020
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* June 2022 - January 2023: Research intern
+  * [Microsoft Research Asia](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/), Beijing, China
+  * Research at the natural language computing group, focus on pre-training methods based on ELECTRA.
+  * Supervisor: [Shaohan Huang](https://www.microsoft.com/en-us/research/people/shaohanh/)
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* June 2021 - March 2022: Research intern
+  * [iFLYTEK Research](https://www.iflytek.com/index.html), Hefei, China
+  * Research at the state key laboratory of cognitive intelligence, focus on multilinguality.
+  * Supervisor: [Quan Liu](http://staff.ustc.edu.cn/~quanliu/)
 
-* Summer 2015: Research Assistant
+<!-- * Summer 2015: Research Assistant
   * Github University
   * Duties included: Tagging issues
-  * Supervisor: Professor Git
+  * Supervisor: Professor Git -->
   
-Skills
+<!-- Skills
 ======
 * Skill 1
 * Skill 2
   * Sub-skill 2.1
   * Sub-skill 2.2
   * Sub-skill 2.3
-* Skill 3
+* Skill 3 -->
 
 Publications
 ======
@@ -47,11 +47,11 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+<!-- Talks
 ======
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
 Teaching
 ======
@@ -59,6 +59,26 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
+
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Program committee/reviewing:
+    * Conference: ACL 2023, EMNLP 2023/2024, ICASSP 2022, ICPR 2022
+    * Journal: TPAMI
+
+
+Honors
+======
+* 2023 Outstanding Graduate Award of University of Science and Technology of China.
+* 2023 Outstanding Graduate Award of Ordinary Colleges and Universities in Anhui Province.
+* 2022 China National Scholarship.
+* 2020 Suzhou Yucai Scholarship: Top 1 GPA (3.93/4.3) in the class (1/120) of that year.
+* 2019 Scholarship of the Institute of Electrics, Chinese Academy of Sciences: Top 3% GPA in the department of that year.
+* 2018 The third prize (provincial) in [Contemporary Undergraduate Mathematical Contest in Modeling of China](http://www.mcm.edu.cn/)
+* 2017 Gold Award for Outstanding Student.
+
+Patent
+======
+基于数据增强训练的多特征融合神经机器翻译检错方法 (CN112926345A)<br> 
+陈贝多, 黄青青, 杜俊 
+China National Intellectual Property Administration [(CNIPA)](http://www.cnipa.gov.cn/)
