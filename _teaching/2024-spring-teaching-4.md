@@ -44,12 +44,12 @@ Week 14 (July 16) -- Project week
 
 ## Reading List:
 
-* Foundation Models for Weather and Climate Data Understanding: A Comprehensive SurveyURL
-* Intensity-Valued Emotions Help Stance Detection of Climate Change Twitter DataURL
-* Conflicts, Villains, Resolutions: Towards models of Narrative Media FramingURL
-* Detecting Stance in Media on Global WarmingURL
-* ClimateGPT: Towards AI Synthesizing Interdisciplinary Research on Climate ChangeURL
+* Foundation Models for Weather and Climate Data Understanding: A Comprehensive Survey
+* Intensity-Valued Emotions Help Stance Detection of Climate Change Twitter Data
+* Conflicts, Villains, Resolutions: Towards models of Narrative Media Framing
+* Detecting Stance in Media on Global Warming
+* ClimateGPT: Towards AI Synthesizing Interdisciplinary Research on Climate Change
 
 ## Final Project Suggestions:
 
-* Detecting Stance in Media on Global warmingURL
+* Detecting Stance in Media on Global warming
