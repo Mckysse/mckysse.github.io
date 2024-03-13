@@ -84,9 +84,5 @@ Patent
 China National Intellectual Property Administration [(CNIPA)](http://www.cnipa.gov.cn/) <br>
 
 
-## Resume
-<object data="https://mckysse.github.io/files/Resume_bdchen_EN.pdf" type="application/pdf" width="900px" height="900px">
-    <embed src="https://mckysse.github.io/files/Resume_bdchen_EN.pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://mckysse.github.io/files/Resume_bdchen_EN.pdf">Download PDF</a>.</p>
-    </embed>
-</object>
+## [Resume](https://mckysse.github.io/files/Resume_bdchen_EN.pdf)
+
