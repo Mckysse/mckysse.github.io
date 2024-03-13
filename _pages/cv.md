@@ -63,7 +63,7 @@ Teaching
 Service and leadership
 ======
 * Program committee/reviewing:
-    * Conference: ACL 2023, EMNLP 2023/2024, ICASSP 2022, ICPR 2022
+    * Conference: ACL 2023/2024, EMNLP 2023, ICASSP 2022, ICPR 2022
     * Journal: TPAMI
 
 
@@ -74,11 +74,19 @@ Honors
 * 2022 China National Scholarship.
 * 2020 Suzhou Yucai Scholarship: Top 1 GPA (3.93/4.3) in the class (1/120) of that year.
 * 2019 Scholarship of the Institute of Electrics, Chinese Academy of Sciences: Top 3% GPA in the department of that year.
-* 2018 The third prize (provincial) in [Contemporary Undergraduate Mathematical Contest in Modeling of China](http://www.mcm.edu.cn/)
+* 2018 The third prize (provincial) in [Contemporary Undergraduate Mathematical Contest in Modeling of China](http://www.mcm.edu.cn/).
 * 2017 Gold Award for Outstanding Student.
 
 Patent
 ======
-基于数据增强训练的多特征融合神经机器翻译检错方法 (CN112926345A)<br> 
+基于数据增强训练的多特征融合神经机器翻译检错方法 (CN112926345A) [[pdf]](files/patent_0)<br> 
 陈贝多, 黄青青, 杜俊 <br> 
-China National Intellectual Property Administration [(CNIPA)](http://www.cnipa.gov.cn/)
+China National Intellectual Property Administration [(CNIPA)](http://www.cnipa.gov.cn/) <br>
+
+
+## Resume
+<object data="https://mckysse.github.io/files/Resume_bdchen_EN.pdf" type="application/pdf" width="900px" height="900px">
+    <embed src="https://mckysse.github.io/files/Resume_bdchen_EN.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://mckysse.github.io/files/Resume_bdchen_EN.pdf">Download PDF</a>.</p>
+    </embed>
+</object>
