@@ -13,6 +13,7 @@ Serve as: Teaching Assistant
 Teacher: Prof. Dr. Barbara Plank, Dr. Siyao Peng, Daniela Teodorescu
 
 Course Schedule:
+======
 
 Week 1 (April 16) -- Introduction: NLP & CC (Logan)
 
@@ -43,24 +44,15 @@ Week 13 (July 9)-- Project week
 Week 14 (July 16) -- Project week
 
 Reading List:
+======
 
-Foundation Models for Weather and Climate Data Understanding: A Comprehensive SurveyURL
-Intensity-Valued Emotions Help Stance Detection of Climate Change Twitter DataURL
-Conflicts, Villains, Resolutions: Towards models of Narrative Media FramingURL
-Detecting Stance in Media on Global WarmingURL
-ClimateGPT: Towards AI Synthesizing Interdisciplinary Research on Climate ChangeURL
+* Foundation Models for Weather and Climate Data Understanding: A Comprehensive SurveyURL
+* Intensity-Valued Emotions Help Stance Detection of Climate Change Twitter DataURL
+* Conflicts, Villains, Resolutions: Towards models of Narrative Media FramingURL
+* Detecting Stance in Media on Global WarmingURL
+* ClimateGPT: Towards AI Synthesizing Interdisciplinary Research on Climate ChangeURL
 
 Final Project Suggestions:
-
-Detecting Stance in Media on Global warmingURL
-
-
-
-Heading 1
 ======
 
-Heading 2
-======
-
-Heading 3
-======
+* Detecting Stance in Media on Global warmingURL
