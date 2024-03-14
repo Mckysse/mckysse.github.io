@@ -10,7 +10,7 @@ location: "Hefei, China"
 
 Serve as: Teaching Assistant
 
-Teacher: Prof. Dr. Wu Guo
+Teacher: Prof. Dr. Wu Guo, Beiduo Chen
 
 ## Course Description:
 
