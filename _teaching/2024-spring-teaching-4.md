@@ -1,7 +1,7 @@
 ---
 title: "NLP for Climate Change (Algor.u.formale Aspekte) SoSe 2024"
 collection: teaching
-type: "Undergraduate course"
+type: "Graduate course"
 permalink: /teaching/2024-spring-teaching-4
 venue: "Ludwig-Maximilians-Universität München, 13 Fakultät für Sprach- und Literaturwissenschaften, Department II, Centrum für Informations- und Sprachverarbeitung"
 date: 2024-04-01
@@ -10,7 +10,7 @@ location: "Munich, German"
 
 Serve as: Teaching Assistant
 
-Teacher: Prof. Dr. Barbara Plank, Dr. Siyao Peng, Daniela Teodorescu
+Teacher: Prof. Dr. Barbara Plank, Dr. Siyao Peng, Daniela Teodorescu, Beiduo Chen
 
 ## Course Schedule:
 
