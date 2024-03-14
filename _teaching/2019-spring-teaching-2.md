@@ -10,7 +10,7 @@ location: "Hefei, China"
 
 Serve as: Teaching Assistant
 
-Teacher: Xuefei Bai
+Teacher: Xuefei Bai, Beiduo Chen, Yadong Qu, Yifei Liu
 
 ## Course Description:
 
