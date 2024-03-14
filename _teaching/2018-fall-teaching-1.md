@@ -10,7 +10,7 @@ location: "Hefei, China"
 
 Serve as: Teaching Assistant
 
-Teacher： Yifei Zhang
+Teacher： Yifei Zhang, Beiduo Chen
 
 ## Course Description:
 
