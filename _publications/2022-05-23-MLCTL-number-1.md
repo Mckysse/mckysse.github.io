@@ -23,7 +23,7 @@ Cross-language pre-trained models such as multilingual BERT (mBERT) have achieve
 </object>
 
 
-## [Arxiv](https://arxiv.org/pdf/2202.13083.pdf)
+## [Arxiv](https://arxiv.org/pdf/2202.13083)
 <object data="https://arxiv.org/pdf/2202.13083" type="application/pdf" width="900px" height="900px">
     <embed src="https://arxiv.org/pdf/2202.13083">
         <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://arxiv.org/pdf/2202.13083">Download PDF</a>.</p>
