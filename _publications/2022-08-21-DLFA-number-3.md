@@ -22,10 +22,10 @@ Multilingual BERT (mBERT), a language model pre-trained on large multilingual co
 </object>
 
 
-## [Arxiv](https://arxiv.org/pdf/2205.08497.pdf)
-<object data="https://arxiv.org/pdf/2205.08497.pdf" type="application/pdf" width="900px" height="900px">
-    <embed src="https://arxiv.org/pdf/2205.08497.pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://arxiv.org/pdf/2205.08497.pdf">Download PDF</a>.</p>
+## [Arxiv](https://arxiv.org/pdf/2205.08497)
+<object data="https://arxiv.org/pdf/2205.08497" type="application/pdf" width="900px" height="900px">
+    <embed src="https://arxiv.org/pdf/2205.08497">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://arxiv.org/pdf/2205.08497">Download PDF</a>.</p>
     </embed>
 </object>
 
