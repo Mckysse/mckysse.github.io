@@ -23,10 +23,10 @@ This paper describes the system developed by the USTC-NELSLIP team for SemEval-2
 </object>
 
 
-## [Arxiv](https://arxiv.org/pdf/2203.03216.pdf)
-<object data="https://arxiv.org/pdf/2203.03216.pdf" type="application/pdf" width="900px" height="900px">
-    <embed src="https://arxiv.org/pdf/2203.03216.pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://arxiv.org/pdf/2203.03216.pdf">Download PDF</a>.</p>
+## [Arxiv](https://arxiv.org/pdf/2203.03216)
+<object data="https://arxiv.org/pdf/2203.03216" type="application/pdf" width="900px" height="900px">
+    <embed src="https://arxiv.org/pdf/2203.03216">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://arxiv.org/pdf/2203.03216">Download PDF</a>.</p>
     </embed>
 </object>
 
