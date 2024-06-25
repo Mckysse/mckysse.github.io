@@ -1,5 +1,5 @@
 ---
-title: "Multi-model NLP Übung Erweiterungsmodul Computerlinguistik Sommersemester 2024"
+title: "Multi-modal NLP Übung Erweiterungsmodul Computerlinguistik Sommersemester 2024"
 collection: teaching
 type: "Graduate course"
 permalink: /teaching/2024-spring-teaching-5
