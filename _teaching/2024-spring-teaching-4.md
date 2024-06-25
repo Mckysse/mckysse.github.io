@@ -14,33 +14,32 @@ Teacher: Prof. Dr. Barbara Plank, Dr. Siyao Peng, Daniela Teodorescu, Beiduo Che
 
 ## Course Schedule:
 
-Week 1 (April 16) -- Introduction: NLP & CC (Logan)
+Week 1 (16.04) -- Introduction to NLP for Climate Change -- Part 1
 
-Week 2 (April 23) -- Introduction: Sentiment & CC (Daniela)
+Week 2 (23.04) -- Introduction to NLP for Climate Change -- Part 2
 
-Week 3 (April 30) -- Guest talk: Comp Social Science & CC (Simone + Nadja)
+Week 3 (30.04) -- Guest lecture: Dr. Simon Lübke &  Nadezhda Ozornina from Computational Communication Science, LMU
 
-Week 4 (May 7) -- Paper presentation
+Week 4 (07.05) -- Technical tutorial by Beiduo Chen
 
-Week 5 (May 14) -- Paper presentation
+Week 5 (14.05) -- Student Paper Presentations
 
-Week 6 (May 21) -- Cancelled (Project Proposal Preparation)
+Week 6 (21.05) -- No Class on Whit Tuesday
 
-Week 7 (May 28) -- Project Proposal Presentations (5 min)
+Week 7 (28.05) -- Student Paper Presentations
 
-Week 8 (June 4) -- Paper presentation
+Week 8 (04.06) -- Cancelled
 
-Week 9 (June 11) -- Paper presentation
+Week 9 (11.06) -- 5-minute project proposal presentations
 
-Week 10 (June 18) -- Paper presentation
+Week 10 (18.06) -- Cancelled
 
-Week 11 (June 25) -- Paper presentation
+Week 11 (25.06) -- Guest lecture by Prof. Manfred Stede from the University of Potsdam
 
-Week 12 (July 2) -- Intermediate project updates & peer feedbacks
+Week 12 (02.07) -- Optional 10-minute project updates & discussions
 
-Week 13 (July 9) -- Project week
+Week 12-14 -- No class during project weeks
 
-Week 14 (July 16) -- Project week
 
 ## Reading List:
 
@@ -53,3 +52,8 @@ Week 14 (July 16) -- Project week
 ## Final Project Suggestions:
 
 * Detecting Stance in Media on Global warming
+* NLP for Positive Impact Workshop (NLP4PI) -- collocated with EMNLP 2024
+* NLP for Digital Humanities (NLP4DH 2024) -- collocated with EMNLP 2024
+* NLP for Science (NLP4Science) -- collocated with EMNLP 2024
+* COLING 2025 main conference
+
