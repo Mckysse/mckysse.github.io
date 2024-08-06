@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-A PDF version of my Resume is [here](https://mckysse.github.io/files/Resume_bdchen_EN.pdf).
+<!-- A PDF version of my Resume is [here](https://mckysse.github.io/files/Resume_bdchen_EN.pdf). -->
 
 
 ## Education
