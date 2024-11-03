@@ -61,7 +61,7 @@ redirect_from:
 
 ## Service and leadership
 * Program committee/reviewing:
-    * Conference: ACL 2023/2024, EMNLP 2023, ICASSP 2022, ICPR 2022
+    * Conference: ACL Rolling Review, ACL, EMNLP, NAACL, ICASSP, ICPR
     * Journal: TPAMI
 
 ## Honors
