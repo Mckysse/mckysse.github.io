@@ -1,5 +1,5 @@
 ---
-title: "NLP for Climate Change (Algor.u.formale Aspekte) SoSe 2024"
+title: "NLP for Climate Change (Algor.u.formale Aspekte) Seminar SoSe 2024"
 collection: teaching
 type: "Graduate course"
 permalink: /teaching/2024-spring-teaching-4
