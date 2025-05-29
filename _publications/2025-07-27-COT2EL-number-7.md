@@ -22,10 +22,10 @@ Disagreement in human labeling is ubiquitous, and can be captured in human judgm
 </object> -->
 
 
-## [Arxiv](https://arxiv.org/abs/2412.13942)
-<object data="https://arxiv.org/abs/2412.13942" type="application/pdf" width="900px" height="900px">
-    <embed src="https://arxiv.org/abs/2412.13942">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://arxiv.org/abs/2412.13942">Download PDF</a>.</p>
+## [Arxiv](https://arxiv.org/pdf/2412.13942)
+<object data="https://arxiv.org/pdf/2412.13942" type="application/pdf" width="900px" height="900px">
+    <embed src="https://arxiv.org/pdf/2412.13942">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://arxiv.org/pdf/2412.13942">Download PDF</a>.</p>
     </embed>
 </object>
 
