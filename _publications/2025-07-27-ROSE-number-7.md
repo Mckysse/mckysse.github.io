@@ -31,9 +31,9 @@ Disagreement in human labeling is ubiquitous, and can be captured in human judgm
 
 
 ## [Slides](https://mckysse.github.io/files/ACL2025_ROSE_slides.pdf)
-<object data="https://mckysse.github.io/files/ACL2025_ROSE_slides" type="application/pdf" width="900px" height="900px">
-    <embed src="https://mckysse.github.io/files/ACL2025_ROSE_slides">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://mckysse.github.io/files/ACL2025_ROSE_slides">Download PDF</a>.</p>
+<object data="https://mckysse.github.io/files/ACL2025_ROSE_slides.pdf" type="application/pdf" width="900px" height="900px">
+    <embed src="https://mckysse.github.io/files/ACL2025_ROSE_slides.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://mckysse.github.io/files/ACL2025_ROSE_slides.pdf">Download PDF</a>.</p>
     </embed>
 </object>
 
