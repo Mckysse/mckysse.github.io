@@ -5,8 +5,8 @@ permalink: /publication/2025-07-27-ROSE-number-7
 excerpt: "This paper investigates whether large language models (LLMs) can generate explanations that effectively approximate human judgment distributions (HJDs) in natural language inference (NLI). By replacing human-written explanations with LLM-generated ones for a small set of human labels, the study finds that model explanations can match human performance in estimating HJDs, even on datasets lacking human explanations and in out-of-distribution settings."
 date: 2025-07-27
 venue: 'Findings of the Association for Computational Linguistics: ACL 2025'
-paperurl: 'https://arxiv.org/abs/2412.13942'
-citation: 'Beiduo Chen, Siyao Peng, Anna Korhonen, Barbara Plank. 2025. A Rose by Any Other Name: LLM-Generated Explanations Are Good Proxies for Human Explanations to Collect Label Distributions on NLI. In Findings of the Association for Computational Linguistics: ACL 2025, Vienna, Austria. Association for Computational Linguistics.'
+paperurl: 'https://aclanthology.org/2025.findings-acl.562/'
+citation: 'Beiduo Chen, Siyao Peng, Anna Korhonen, and Barbara Plank. 2025. A Rose by Any Other Name: LLM-Generated Explanations Are Good Proxies for Human Explanations to Collect Label Distributions on NLI. In Findings of the Association for Computational Linguistics: ACL 2025, pages 10777–10802, Vienna, Austria. Association for Computational Linguistics.'
 ---
 
 ## [Code](https://github.com/mainlp/MJD-Estimator/)
