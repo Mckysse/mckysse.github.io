@@ -1,0 +1,189 @@
+---
+---
+
+@inproceedings{chen-etal-2025-rose,
+    title = "A Rose by Any Other Name: {LLM}-Generated Explanations Are Good Proxies for Human Explanations to Collect Label Distributions on {NLI}",
+    author = "Chen, Beiduo  and
+      Peng, Siyao  and
+      Korhonen, Anna  and
+      Plank, Barbara",
+    editor = "Che, Wanxiang  and
+      Nabende, Joyce  and
+      Shutova, Ekaterina  and
+      Pilehvar, Mohammad Taher",
+    booktitle = "Findings of the Association for Computational Linguistics: ACL 2025",
+    month = jul,
+    year = "2025",
+    address = "Vienna, Austria",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2025.findings-acl.562/",
+    pages = "10777--10802",
+    ISBN = "979-8-89176-256-5",
+    abstract = "Disagreement in human labeling is ubiquitous, and can be captured in human judgment distributions (HJDs). Recent research has shown that explanations provide valuable information for understanding human label variation (HLV) and large language models (LLMs) can approximate HJD from a few human-provided label-explanation pairs. However, collecting explanations for every label is still time-consuming. This paper examines whether LLMs can be used to replace humans in generating explanations for approximating HJD. Specifically, we use LLMs as annotators to generate model explanations for a few given human labels. We test ways to obtain and combine these label-explanations with the goal to approximate human judgment distributions. We further compare the resulting human with model-generated explanations, and test automatic and human explanation selection. Our experiments show that LLM explanations are promising for NLI: to estimate HJDs, generated explanations yield comparable results to human{'}s when provided with human labels. Importantly, our results generalize from datasets with human explanations to i) datasets where they are not available and ii) challenging out-of-distribution test sets.",
+    arxiv={2412.13942},
+    code={https://github.com/mainlp/MJD-Estimator},
+    poster={ACL2025_ROSE_poster.pdf},
+    slides={ACL2025_ROSE_slides.pdf},
+    preview={ACL2025_ROSE_preview.png}
+}
+
+
+@inproceedings{chen-etal-2024-seeing,
+    title = "``Seeing the Big through the Small'': Can {LLM}s Approximate Human Judgment Distributions on {NLI} from a Few Explanations?",
+    author = "Chen, Beiduo  and
+      Wang, Xinpeng  and
+      Peng, Siyao  and
+      Litschko, Robert  and
+      Korhonen, Anna  and
+      Plank, Barbara",
+    editor = "Al-Onaizan, Yaser  and
+      Bansal, Mohit  and
+      Chen, Yun-Nung",
+    booktitle = "Findings of the Association for Computational Linguistics: EMNLP 2024",
+    month = nov,
+    year = "2024",
+    address = "Miami, Florida, USA",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2024.findings-emnlp.842/",
+    doi = "10.18653/v1/2024.findings-emnlp.842",
+    pages = "14396--14419",
+    abstract = "Human label variation (HLV) is a valuable source of information that arises when multiple human annotators provide different labels for valid reasons. In Natural Language Inference (NLI) earlier approaches to capturing HLV involve either collecting annotations from many crowd workers to represent human judgment distribution (HJD) or use expert linguists to provide detailed explanations for their chosen labels. While the former method provides denser HJD information, obtaining it is resource-intensive. In contrast, the latter offers richer textual information but it is challenging to scale up to many human judges. Besides, large language models (LLMs) are increasingly used as evaluators ({``}LLM judges'') but with mixed results, and few works aim to study HJDs. This study proposes to exploit LLMs to approximate HJDs using a small number of expert labels and explanations. Our experiments show that a few explanations significantly improve LLMs' ability to approximate HJDs with and without explicit labels, thereby providing a solution to scale up annotations for HJD. However, fine-tuning smaller soft-label aware models with the LLM-generated model judgment distributions (MJDs) presents partially inconsistent results: while similar in distance, their resulting fine-tuned models and visualized distributions differ substantially. We show the importance of complementing instance-level distance measures with a global-level shape metric and visualization to more effectively evaluate MJDs against human judgment distributions.",
+    arxiv={2406.17600},
+    code={https://github.com/mainlp/MJD-Estimator},
+    poster={EMNLP2024_MJDE_poster.pdf},
+    slides={EMNLP2024_MJDE_slides.pdf},
+    preview={EMNLP2024_MJDE_preview.png}
+}
+
+
+@inproceedings{chen-etal-2023-pre,
+    title = "Pre-training Language Model as a Multi-perspective Course Learner",
+    author = "Chen, Beiduo  and
+      Huang, Shaohan  and
+      Zhang, Zihan  and
+      Guo, Wu  and
+      Ling, Zhenhua  and
+      Huang, Haizhen  and
+      Wei, Furu  and
+      Deng, Weiwei  and
+      Zhang, Qi",
+    editor = "Rogers, Anna  and
+      Boyd-Graber, Jordan  and
+      Okazaki, Naoaki",
+    booktitle = "Findings of the Association for Computational Linguistics: ACL 2023",
+    month = jul,
+    year = "2023",
+    address = "Toronto, Canada",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2023.findings-acl.9/",
+    doi = "10.18653/v1/2023.findings-acl.9",
+    pages = "114--128",
+    abstract = "ELECTRA, the generator-discriminator pre-training framework, has achieved impressive semantic construction capability among various downstream tasks. Despite the convincing performance, ELECTRA still faces the challenges of monotonous training and deficient interaction. Generator with only masked language modeling (MLM) leads to biased learning and label imbalance for discriminator, decreasing learning efficiency; no explicit feedback loop from discriminator to generator results in the chasm between these two components, underutilizing the course learning. In this study, a multi-perspective course learning (MCL) method is proposed to fetch a many degrees and visual angles for sample-efficient pre-training, and to fully leverage the relationship between generator and discriminator. Concretely, three self-supervision courses are designed to alleviate inherent flaws of MLM and balance the label in a multi-perspective way. Besides, two self-correction courses are proposed to bridge the chasm between the two encoders by creating a ``correction notebook'' for secondary-supervision. Moreover, a course soups trial is conducted to solve the ``tug-of-war'' dynamics problem of MCL, evolving a stronger pre-trained model. Experimental results show that our method significantly improves ELECTRA{'}s average performance by 2.8{\%} and 3.2{\%} absolute points respectively on GLUE and SQuAD 2.0 benchmarks, and overshadows recent advanced ELECTRA-style models under the same settings. The pre-trained MCL model is available at \url{https://huggingface.co/McmanusChen/MCL-base}.",
+    arxiv={2305.03981},
+    code={https://huggingface.co/McmanusChen/MCL-base},
+    poster={ACL2023_MCL_poster.pdf},
+    slides={ACL2023_MCL_slides.pdf},
+    preview={ACL2023_MCL_preview.png}
+}
+
+
+@inproceedings{ma-etal-2022-wider,
+    title = "Wider {\&} Closer: Mixture of Short-channel Distillers for Zero-shot Cross-lingual Named Entity Recognition",
+    author = "Ma*, Jun-Yu  and
+      Chen*, Beiduo  and
+      Gu, Jia-Chen  and
+      Ling, Zhenhua  and
+      Guo, Wu  and
+      Liu, Quan  and
+      Chen, Zhigang  and
+      Liu, Cong",
+    editor = "Goldberg, Yoav  and
+      Kozareva, Zornitsa  and
+      Zhang, Yue",
+    booktitle = "Proceedings of the 2022 Conference on Empirical Methods in Natural Language Processing",
+    month = dec,
+    year = "2022",
+    address = "Abu Dhabi, United Arab Emirates",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2022.emnlp-main.345/",
+    doi = "10.18653/v1/2022.emnlp-main.345",
+    pages = "5171--5183",
+    abstract = "Zero-shot cross-lingual named entity recognition (NER) aims at transferring knowledge from annotated and rich-resource data in source languages to unlabeled and lean-resource data in target languages. Existing mainstream methods based on the teacher-student distillation framework ignore the rich and complementary information lying in the intermediate layers of pre-trained language models, and domain-invariant information is easily lost during transfer. In this study, a mixture of short-channel distillers (MSD) method is proposed to fully interact the rich hierarchical information in the teacher model and to transfer knowledge to the student model sufficiently and efficiently. Concretely, a multi-channel distillation framework is designed for sufficient information transfer by aggregating multiple distillers as a mixture. Besides, an unsupervised method adopting parallel domain adaptation is proposed to shorten the channels between the teacher and student models to preserve domain-invariant features. Experiments on four datasets across nine languages demonstrate that the proposed method achieves new state-of-the-art performance on zero-shot cross-lingual NER and shows great generalization and compatibility across languages and fields.",
+    arxiv={2212.03506},
+    code={https://github.com/Mckysse/MSD},
+    poster={EMNLP2022_MSD_poster.pdf},
+    slides={EMNLP2022_MSD_slides.pdf},
+    preview={EMNLP2022_MSD_preview.png}
+}
+
+
+@INPROCEEDINGS{9956721,
+  author={Chen, Beiduo and Guo, Wu and Liu, Quan and Tao, Kun},
+  booktitle={2022 26th International Conference on Pattern Recognition (ICPR)}, 
+  title={Feature Aggregation in Zero-Shot Cross-Lingual Transfer Using Multilingual BERT}, 
+  year={2022},
+  volume={},
+  number={},
+  pages={1428-1435},
+  abstract={Multilingual BERT (mBERT), a language model pre-trained on large multilingual corpora, has impressive zeroshot cross-lingual transfer capabilities and performs surprisingly well on zero-shot POS tagging and Named Entity Recognition (NER), as well as on cross-lingual model transfer. At present, the mainstream methods to solve the cross-lingual downstream tasks are always using the last transformer layer’s output of mBERT as the representation of linguistic information. In this work, we explore the complementary property of lower layers to the last transformer layer of mBERT. A feature aggregation module based on an attention mechanism is proposed to fuse the information contained in different layers of mBERT. The experiments are conducted on four zero-shot cross-lingual transfer datasets, and the proposed method obtains performance improvements on key multilingual benchmark tasks XNLI (+1.5 %), PAWS-X (+2.4 %), NER (+1.2 F1), and POS (+1.5 F1). Through the analysis of the experimental results, we prove that the layers before the last layer of mBERT can provide extra useful information for cross-lingual downstream tasks and explore the interpretability of mBERT empirically.},
+  keywords={Fuses;Bit error rate;Tagging;Linguistics;Benchmark testing;Transformers;Pattern recognition},
+  doi={10.1109/ICPR56361.2022.9956721},
+  ISSN={2831-7475},
+  month={Aug},
+  arxiv={2205.08497},
+  poster={ICPR2022_DLFA_poster.pdf},
+  preview={ICPR2022_DLFA_preview.png}
+}
+
+
+@inproceedings{chen-etal-2022-ustc,
+    title = "{USTC}-{NELSLIP} at {S}em{E}val-2022 Task 11: Gazetteer-Adapted Integration Network for Multilingual Complex Named Entity Recognition",
+    author = "Chen, Beiduo  and
+      Ma, Jun-Yu  and
+      Qi, Jiajun  and
+      Guo, Wu  and
+      Ling, Zhen-Hua  and
+      Liu, Quan",
+    editor = "Emerson, Guy  and
+      Schluter, Natalie  and
+      Stanovsky, Gabriel  and
+      Kumar, Ritesh  and
+      Palmer, Alexis  and
+      Schneider, Nathan  and
+      Singh, Siddharth  and
+      Ratan, Shyam",
+    booktitle = "Proceedings of the 16th International Workshop on Semantic Evaluation (SemEval-2022)",
+    month = jul,
+    year = "2022",
+    address = "Seattle, United States",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2022.semeval-1.223/",
+    doi = "10.18653/v1/2022.semeval-1.223",
+    pages = "1613--1622",
+    abstract = "This paper describes the system developed by the USTC-NELSLIP team for SemEval-2022 Task 11 Multilingual Complex Named Entity Recognition (MultiCoNER). We propose a gazetteer-adapted integration network (GAIN) to improve the performance of language models for recognizing complex named entities. The method first adapts the representations of gazetteer networks to those of language models by minimizing the KL divergence between them. After adaptation, these two networks are then integrated for backend supervised named entity recognition (NER) training. The proposed method is applied to several state-of-the-art Transformer-based NER models with a gazetteer built from Wikidata, and shows great generalization ability across them. The final predictions are derived from an ensemble of these trained models. Experimental results and detailed analysis verify the effectiveness of the proposed method. The official results show that our system ranked 1st on three tracks (Chinese, Code-mixed and Bangla) and 2nd on the other ten tracks in this task.",
+    arxiv={2203.03216},
+    code={https://github.com/Mckysse/GAIN},
+    poster={SemEval2022_GAIN_poster.pdf},
+    slides={SemEval2022_GAIN_slides.pdf},
+    preview={SemEval2022_GAIN_preview.png}
+}
+
+@INPROCEEDINGS{9747720,
+  author={Chen, Beiduo and Guo, Wu and Gu, Bin and Liu, Quan and Wang, Yongchao},
+  booktitle={ICASSP 2022 - 2022 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)}, 
+  title={Multi-Level Contrastive Learning for Cross-Lingual Alignment}, 
+  year={2022},
+  volume={},
+  number={},
+  pages={7947-7951},
+  abstract={Cross-language pre-trained models such as multilingual BERT (mBERT) have achieved significant performance in various cross-lingual downstream NLP tasks. This paper proposes a multi-level contrastive learning (ML-CTL) framework to further improve the cross-lingual ability of pre-trained models. The proposed method uses translated parallel data to encourage the model to generate similar semantic embeddings for different languages. However, unlike the sentence-level alignment used in most previous studies, in this paper, we explicitly integrate the word-level information of each pair of parallel sentences into contrastive learning. Moreover, cross-zero noise contrastive estimation (CZ-NCE) loss is proposed to alleviate the impact of the floating-point error in the training process with a small batch size. The proposed method significantly improves the cross-lingual transfer ability of our basic model (mBERT) and outperforms on multiple zero-shot cross-lingual downstream tasks compared to the same-size models in the Xtreme benchmark.},
+  keywords={Training;Conferences;Semantics;Bit error rate;Estimation;Benchmark testing;Signal processing;Cross-language pre-trained model;contrastive learning;multi-level;cross-zero NCE;cross-lingual alignment},
+  doi={10.1109/ICASSP43922.2022.9747720},
+  ISSN={2379-190X},
+  month={May},
+  arxiv={2202.13083},
+  code={https://github.com/Mckysse/ML-CTL},
+  poster={ICASSP2022_ML-CTL_poster.pdf},
+  slides={ICASSP2022_ML-CTL_slides.pdf},
+  preview={ICASSP2022_ML-CTL_preview.png}
+}
