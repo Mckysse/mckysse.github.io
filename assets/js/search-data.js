@@ -1,0 +1,116 @@
+// get the ninja-keys element
+const ninja = document.querySelector('ninja-keys');
+
+// add the home and posts menu items
+ninja.data = [{
+    id: "nav-about",
+    title: "About",
+    section: "Navigation",
+    handler: () => {
+      window.location.href = "/";
+    },
+  },{id: "nav-publications",
+          title: "Publications",
+          description: "* indicates equal contribution.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/publications/";
+          },
+        },{id: "nav-talks",
+          title: "Talks",
+          description: "invited talks and presentations.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/talks/";
+          },
+        },{id: "nav-teaching",
+          title: "Teaching",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/teaching/";
+          },
+        },{id: "news-mortar-board-defend-my-bachelor-thesis-in-ustc-and-start-my-master-journey-in-ustc",
+          title: ':mortar_board: Defend my Bachelor Thesis in USTC, and start my Master journey in...',
+          description: "",
+          section: "News",},{id: "news-busts-in-silhouette-start-my-intership-at-iflytek-research-hefei-supervised-by-quan-liu",
+          title: ':busts_in_silhouette: Start my intership at iFLYTEK Research, Hefei, supervised by Quan Liu.',
+          description: "",
+          section: "News",},{id: "news-blue-book-one-paper-accepted-to-icassp-2022",
+          title: ':blue_book: One paper accepted to ICASSP 2022!',
+          description: "",
+          section: "News",},{id: "news-tada-our-ustc-nelslip-team-win-on-three-tracks-chinese-code-mixed-and-bangla-and-rank-2nd-on-the-other-ten-tracks-in-semeval-2022-task-11-multiconer-many-thanks-to-the-team-members-beiduo-chen-jun-yu-ma-and-jiajun-qi",
+          title: ':tada: Our USTC-NELSLIP Team win on three tracks (Chinese, Code-mixed and Bangla), and...',
+          description: "",
+          section: "News",},{id: "news-blue-book-one-paper-accepted-to-icpr-2022",
+          title: ':blue_book: One paper accepted to ICPR 2022!',
+          description: "",
+          section: "News",},{id: "news-blue-book-one-paper-accepted-to-semeval-naacl-2022",
+          title: ':blue_book: One paper accepted to SemEval@NAACL 2022!',
+          description: "",
+          section: "News",},{id: "news-busts-in-silhouette-start-my-intership-at-microsoft-research-asia-beijing-supervised-by-shaohan-huang",
+          title: ':busts_in_silhouette: Start my intership at Microsoft Research Asia, Beijing, supervised by Shaohan Huang....',
+          description: "",
+          section: "News",},{id: "news-tada-award-by-the-china-national-scholarship-ustc",
+          title: ':tada: Award by the China National Scholarship, USTC.',
+          description: "",
+          section: "News",},{id: "news-blue-book-one-paper-accepted-to-emnlp-2022-main",
+          title: ':blue_book: One paper accepted to EMNLP 2022 (main)!',
+          description: "",
+          section: "News",},{id: "news-blue-book-one-paper-accepted-to-acl-2023-findings",
+          title: ':blue_book: One paper accepted to ACL 2023 (findings)!',
+          description: "",
+          section: "News",},{id: "news-mortar-board-defend-my-master-thesis-in-ustc-with-an-outstanding-graduate-award",
+          title: ':mortar_board: Defend my Master Thesis in USTC, with an Outstanding Graduate Award.',
+          description: "",
+          section: "News",},{id: "news-sparkles-start-my-ellis-ph-d-journey-co-supervised-in-lmu-munich-and-university-of-cambridge",
+          title: ':sparkles: Start my ELLIS Ph.D. journey, co-supervised in LMU Munich and University of...',
+          description: "",
+          section: "News",},{id: "news-blue-book-one-paper-accepted-to-emnlp-2024-findings",
+          title: ':blue_book: One paper accepted to EMNLP 2024 (findings)!',
+          description: "",
+          section: "News",},{id: "news-palm-tree-i-ll-be-at-miami-to-present-our-paper-seeing-the-big-through-the-small-can-llms-approximate-human-judgment-distributions-on-nli-from-a-few-explanations-on-emnlp-2024",
+          title: ':palm_tree: I’ll be at Miami to present our paper “Seeing the Big through...',
+          description: "",
+          section: "News",},{id: "news-tada-pass-my-ph-d-first-year-evaluation-many-thanks-to-the-committee-barbara-plank-marie-catherine-de-marneffe-and-rico-sennrich",
+          title: ':tada: Pass my Ph.D. first year evaluation! Many thanks to the committee: Barbara...',
+          description: "",
+          section: "News",},{id: "news-blue-book-one-paper-accepted-to-acl-2025-findings",
+          title: ':blue_book: One paper accepted to ACL 2025 (findings)!',
+          description: "",
+          section: "News",},{id: "news-microphone-invited-talk-on-understanding-and-modeling-human-label-variation-in-llm-at-wdmd-dsn-2025-in-naples",
+          title: ':microphone: Invited Talk on Understanding and Modeling Human Label Variation in LLM at...',
+          description: "",
+          section: "News",},{id: "news-tada-get-approval-of-the-mobility-grant-of-european-lighthouse-on-secure-and-safe-ai-elsa-i-ll-be-visiting-at-cambridge-during-the-september-and-october-this-year",
+          title: ':tada: Get approval of the Mobility Grant of European Lighthouse on Secure and...',
+          description: "",
+          section: "News",},{id: "news-musical-note-i-ll-be-at-vienna-to-present-our-paper-a-rose-by-any-other-name-llm-generated-explanations-are-good-proxies-for-human-explanations-to-collect-label-distributions-on-nli-on-acl-2025",
+          title: ':musical_note: I’ll be at Vienna to present our paper A Rose by Any...',
+          description: "",
+          section: "News",},{
+      id: 'light-theme',
+      title: 'Change theme to light',
+      description: 'Change the theme of the site to Light',
+      section: 'Theme',
+      handler: () => {
+        setThemeSetting("light");
+      },
+    },
+    {
+      id: 'dark-theme',
+      title: 'Change theme to dark',
+      description: 'Change the theme of the site to Dark',
+      section: 'Theme',
+      handler: () => {
+        setThemeSetting("dark");
+      },
+    },
+    {
+      id: 'system-theme',
+      title: 'Use system default theme',
+      description: 'Change the theme of the site to System Default',
+      section: 'Theme',
+      handler: () => {
+        setThemeSetting("system");
+      },
+    },];
