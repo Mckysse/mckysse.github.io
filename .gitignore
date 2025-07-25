@@ -1,9 +1,13 @@
-# Ignore the contents of the _site directory
-_site/
-
-# Ignore the Gemfile that is generated
+_site
+.bundle
+.sass-cache
+.jekyll-cache
+.jekyll-metadata
+.DS_store
+.ruby-version
+.tweet-cache
 Gemfile.lock
-
-# Ingore files created by npm
-node_modules
-package-lock.json
+assets/libs/
+node_modules/
+vendor
+.idea
