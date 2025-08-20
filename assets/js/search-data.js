@@ -87,6 +87,9 @@ ninja.data = [{
           section: "News",},{id: "news-musical-note-i-ll-be-at-vienna-to-present-our-paper-a-rose-by-any-other-name-llm-generated-explanations-are-good-proxies-for-human-explanations-to-collect-label-distributions-on-nli-on-acl-2025",
           title: ':musical_note: I’ll be at Vienna to present our paper A Rose by Any...',
           description: "",
+          section: "News",},{id: "news-blue-book-three-papers-accepted-to-emnlp-2025-2-main-1-findings",
+          title: ':blue_book: Three papers accepted to EMNLP 2025 (2 main, 1 findings)!',
+          description: "",
           section: "News",},{
       id: 'light-theme',
       title: 'Change theme to light',
