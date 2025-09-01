@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-:microphone: I'll be in Warsaw to attend [Ellis Doctoral Symposium 2025](https://eds2025.pl/) and present our recent works on human label variation. 
+:microphone: I'll be in Warsaw to attend [ELLIS Doctoral Symposium 2025 on Robust AI](https://eds2025.pl/) and present our recent works on human label variation with LLMs. 
