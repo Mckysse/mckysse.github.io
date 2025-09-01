@@ -1,6 +1,17 @@
 ---
 ---
 
+@inproceedings{chen-etal-2025-EDS,
+    title = "Modeling Human Label Variation in Natural Language Inference: From Human to LLM and Chain-of-Thought Explanations",
+    author = "Chen, Beiduo",
+    booktitle = "The European Laboratory for Learning and Intelligent Systems (ELLIS) Doctoral Symposium 2025 on Robust AI",
+    year = "2025",
+    month = "aug",
+    address = "Warsaw, Poland",
+    abstract = "Understanding human label variation (HLV) is critical in Natural Language Processing (NLP), where multiple plausible annotations reflect the nuanced nature of language interpretation. Traditional approaches to capturing human judgment distributions (HJDs) either aggregate large numbers of crowd-sourced labels or collect detailed expert explanations—both of which are resource-intensive and difficult to scale. This poster explores how large language models (LLMs) can approximate HJDs more efficiently through scalable alternatives. First, we show that a small number of expert-provided explanations significantly enhance LLMs' ability to estimate HJDs, even in the absence of explicit labels (Chen et al., EMNLP 2024). Next, we demonstrate that LLM-generated explanations, when conditioned on human labels, serve as effective proxies for human rationales, enabling accurate HJD approximation across both in-distribution and out-of-distribution datasets (Chen et al., ACL 2025). Finally, we introduce a novel pipeline that leverages chain-of-thought (CoT) reasoning, augmented with discourse-aware extraction techniques, to recover implicit rationales embedded in LLM-generated reasoning paths. Paired with a rank-based evaluation framework, this method yields stronger alignment between model outputs and human answer plausibility rankings (Chen et al., EMNLP 2025). Collectively, our findings advance the methodological rigor and practical viability of using LLMs to scale the modeling of human-like label distributions, offering new insights for both AI evaluation and the broader understanding of human reasoning diversity.",
+    poster={EDS2025_HLV_talk.pdf},
+    preview={EDS2025_Talk_HLV_preview.png}
+}
 
 @inproceedings{chen-etal-2025-WDMD,
     title = "Understanding and Modeling Human Label Variation in LLM — Natural Language Inference as A Case",
@@ -12,17 +23,5 @@
     abstract = "In this talk, I will discuss the phenomenon of human label variation and its implications for the reliability of large language models (LLMs). Traditionally, models are trained to focus on a single ``correc'' answer, but real-world scenarios are rarely black and white-often, multiple plausible answers exist. For instance, in natural language inference (NLI) tasks, annotators frequently disagree on whether a given statement entails, contradicts, or remains neutral with respect to another. Drawing from my recent research, I will explore how analyzing inference task examples and leveraging human or LLM-generated explanations can enhance our understanding and modeling of human label variation. By addressing this variation, we aim to improve model comprehension of disputed judgments, enrich its evaluation of uncertainty and confidence, and ultimately contribute to more robust and reliable LLMs for real-world applications.",
     slides={WDMD2025_HLV_talk.pdf},
     preview={WDMD2025_Talk_HLV_preview.png}
-}
-
-@inproceedings{chen-etal-2025-EDS,
-    title = "Modeling Human Label Variation in Natural Language Inference: From Human to LLM and Chain-of-Thought Explanations",
-    author = "Chen, Beiduo",
-    booktitle = "The European Laboratory for Learning and Intelligent Systems (ELLIS) Doctoral Symposium 2025 on Robust AI",
-    year = "2025",
-    month = "aug",
-    address = "Warsaw, Poland",
-    abstract = "Understanding human label variation (HLV) is critical in Natural Language Processing (NLP), where multiple plausible annotations reflect the nuanced nature of language interpretation. Traditional approaches to capturing human judgment distributions (HJDs) either aggregate large numbers of crowd-sourced labels or collect detailed expert explanations—both of which are resource-intensive and difficult to scale. This poster explores how large language models (LLMs) can approximate HJDs more efficiently through scalable alternatives. First, we show that a small number of expert-provided explanations significantly enhance LLMs' ability to estimate HJDs, even in the absence of explicit labels (Chen et al., EMNLP 2024). Next, we demonstrate that LLM-generated explanations, when conditioned on human labels, serve as effective proxies for human rationales, enabling accurate HJD approximation across both in-distribution and out-of-distribution datasets (Chen et al., ACL 2025). Finally, we introduce a novel pipeline that leverages chain-of-thought (CoT) reasoning, augmented with discourse-aware extraction techniques, to recover implicit rationales embedded in LLM-generated reasoning paths. Paired with a rank-based evaluation framework, this method yields stronger alignment between model outputs and human answer plausibility rankings (Chen et al., EMNLP 2025). Collectively, our findings advance the methodological rigor and practical viability of using LLMs to scale the modeling of human-like label distributions, offering new insights for both AI evaluation and the broader understanding of human reasoning diversity.",
-    poster={EDS2025_HLV_talk.pdf},
-    preview={EDS2025_Talk_HLV_preview.png}
 }
 
