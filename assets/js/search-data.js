@@ -90,6 +90,9 @@ ninja.data = [{
           section: "News",},{id: "news-blue-book-three-papers-accepted-to-emnlp-2025-2-main-1-findings",
           title: ':blue_book: Three papers accepted to EMNLP 2025 (2 main, 1 findings)!',
           description: "",
+          section: "News",},{id: "news-microphone-i-ll-be-in-warsaw-to-attend-ellis-doctoral-symposium-2025-and-present-our-recent-works-on-human-label-variation",
+          title: ':microphone: I’ll be in Warsaw to attend Ellis Doctoral Symposium 2025 and present...',
+          description: "",
           section: "News",},{
       id: 'light-theme',
       title: 'Change theme to light',
