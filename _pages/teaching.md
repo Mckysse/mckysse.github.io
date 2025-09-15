@@ -9,20 +9,21 @@ nav_order: 4
 
 ---
 #### LMU Munich
-- **Co-Instructor**: Information Retrieval (Summer 2025)
-- **Co-Instructor**: LLM Agents Erweiterungsmodul Computerlinguistik (Summer 2025)
-- **Co-Instructor**: Symbolische Programmiersprache (Winter 24/25)
-- **Co-Instructor**: Multi-modal NLP Übung Erweiterungsmodul Computerlinguistik (Summer 2024)
-- **Teaching Assistant**: Discourse Modeling and Processing Seminar (Winter 24/25)
-- **Teaching Assistant**: NLP for Climate Change Seminar (Summer 2024)
+- Symbolische Programmiersprache (Winter 24/25, Winter 25/26)
+- Information Retrieval (Summer 2025)
+- LLM Agents Erweiterungsmodul Computerlinguistik (Summer 2025)
+- Multi-modal NLP Übung Erweiterungsmodul Computerlinguistik (Summer 2024)
+- Explaining and Interpreting Annotations in NLP Seminar (Winter 25/26)
+- Discourse Modeling and Processing Seminar (Winter 24/25)
+- NLP for Climate Change Seminar (Summer 2024)
 
 <p>&nbsp;</p>
 
 ---
 #### University of Science and Technology of China
-- **Teaching Assistant**: Signals and Systems (2021)
-- **Teaching Assistant**: Computer Programming A (2019)
-- **Teaching Assistant**: Electromagnetism C (2018)
+- Signals and Systems (2021)
+- Computer Programming A (2019)
+- Electromagnetism C (2018)
 
 <p>&nbsp;</p>
 
