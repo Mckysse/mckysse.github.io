@@ -93,6 +93,9 @@ ninja.data = [{
           section: "News",},{id: "news-microphone-i-ll-be-in-warsaw-to-attend-ellis-doctoral-symposium-2025-on-robust-ai-and-present-our-recent-works-on-human-label-variation-with-llms",
           title: ':microphone: I’ll be in Warsaw to attend ELLIS Doctoral Symposium 2025 on Robust...',
           description: "",
+          section: "News",},{id: "news-tada-our-emnlp-2025-main-paper-threading-the-needle-reweaving-chain-of-thought-reasoning-to-explain-human-label-variation-has-been-selected-as-oral-presentation",
+          title: ':tada: Our EMNLP 2025 Main Paper Threading the Needle: Reweaving Chain-of-Thought Reasoning to...',
+          description: "",
           section: "News",},{
       id: 'light-theme',
       title: 'Change theme to light',
