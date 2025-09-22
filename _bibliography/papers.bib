@@ -2,6 +2,63 @@
 ---
 
 
+@inproceedings{chen-etal-2025-CoT,
+    title = "(Oral Presentation) Threading the Needle: Reweaving Chain-of-Thought Reasoning to Explain Human Label Variation",
+    author = "Chen, Beiduo  and
+      Liu, Yang Janet and
+      Korhonen, Anna  and
+      Plank, Barbara",
+    booktitle = "Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing",
+    month = nov,
+    year = "2025",
+    address = "Suzhou, China",
+    publisher = "Association for Computational Linguistics",
+    doi = "10.48550/ARXIV.2505.23368",
+    abstract = "The recent rise of reasoning-tuned Large Language Models (LLMs)--which generate chains of thought (CoTs) before giving the final answer--has attracted significant attention and offers new opportunities for gaining insights into human label variation, which refers to plausible differences in how multiple annotators label the same data instance. Prior work has shown that LLM-generated explanations can help align model predictions with human label distributions, but typically adopt a reverse paradigm: producing explanations based on given answers. In contrast, CoTs provide a forward reasoning path that may implicitly embed rationales for each answer option, before generating the answers. We thus propose a novel LLM-based pipeline enriched with linguistically-grounded discourse segmenters to extract supporting and opposing statements for each answer option from CoTs with improved accuracy. We also propose a rank-based HLV evaluation framework that prioritizes the ranking of answers over exact scores, which instead favor direct comparison of label distributions. Our method outperforms a direct generation method as well as baselines on three datasets, and shows better alignment of ranking methods with humans, highlighting the effectiveness of our approach.",
+    arxiv={2505.23368},
+    code={https://github.com/mainlp/CoT2EL},
+    preview={EMNLP2025_CoT_preview.png}
+}
+
+@inproceedings{hong-chen-etal-2025-LiTEx,
+    title = "LiTEx: {A} Linguistic Taxonomy of Explanations for Understanding Within-Label Variation in Natural Language Inference",
+    author = "Hong*, Pingjun and 
+      Chen*, Beiduo  and
+      Peng, Siyao and
+      de Marneffe, Marie{-}Catherine  and
+      Plank, Barbara",
+    booktitle = "Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing",
+    month = nov,
+    year = "2025",
+    address = "Suzhou, China",
+    publisher = "Association for Computational Linguistics",
+    doi = "10.48550/ARXIV.2505.22848",
+    abstract = "There is increasing evidence of Human Label Variation (HLV) in Natural Language Inference (NLI), where annotators assign different labels to the same premise-hypothesis pair. However, within-label variation--cases where annotators agree on the same label but provide divergent reasoning--poses an additional and mostly overlooked challenge. Several NLI datasets contain highlighted words in the NLI item as explanations, but the same spans on the NLI item can be highlighted for different reasons, as evidenced by free-text explanations, which offer a window into annotators' reasoning. To systematically understand this problem and gain insight into the rationales behind NLI labels, we introduce LITEX, a linguistically-informed taxonomy for categorizing free-text explanations. Using this taxonomy, we annotate a subset of the e-SNLI dataset, validate the taxonomy's reliability, and analyze how it aligns with NLI labels, highlights, and explanations. We further assess the taxonomy's usefulness in explanation generation, demonstrating that conditioning generation on LITEX yields explanations that are linguistically closer to human explanations than those generated using only labels or highlights. Our approach thus not only captures within-label variation but also shows how taxonomy-guided generation for reasoning can bridge the gap between human and model explanations more effectively than existing strategies.",
+    arxiv={2505.22848},
+    code={https://github.com/mainlp/LiTEx},
+    preview={EMNLP2025_LiTEx_preview.png}
+}
+
+@inproceedings{zhao-etal-2025-MAKI,
+    title = "MAKIEval: {A} Multilingual Automatic WiKidata-based Framework for Cultural Awareness Evaluation for LLMs",
+    author = "Zhao, Raoyuan and 
+      Chen, Beiduo  and
+      Plank, Barbara and
+      Hedderich, Michael A.",
+    booktitle = "Findings of the Association for Computational Linguistics: EMNLP 2025",
+    month = nov,
+    year = "2025",
+    address = "Suzhou, China",
+    publisher = "Association for Computational Linguistics",
+    doi = "10.48550/ARXIV.2505.21693",
+    abstract = "Large language models (LLMs) are used globally across many languages, but their English-centric pretraining raises concerns about cross-lingual disparities for cultural awareness, often resulting in biased outputs. However, comprehensive multilingual evaluation remains challenging due to limited benchmarks and questionable translation quality. To better assess these disparities, we introduce MAKIEval, an automatic multilingual framework for evaluating cultural awareness in LLMs across languages, regions, and topics. MAKIEval evaluates open-ended text generation, capturing how models express culturally grounded knowledge in natural language. Leveraging Wikidata's multilingual structure as a cross-lingual anchor, it automatically identifies cultural entities in model outputs and links them to structured knowledge, enabling scalable, language-agnostic evaluation without manual annotation or translation. We then introduce four metrics that capture complementary dimensions of cultural awareness: granularity, diversity, cultural specificity, and consensus across languages. We assess 7 LLMs developed from different parts of the world, encompassing both open-source and proprietary systems, across 13 languages, 19 countries and regions, and 6 culturally salient topics (e.g., food, clothing). Notably, we find that models tend to exhibit stronger cultural awareness in English, suggesting that English prompts more effectively activate culturally grounded knowledge. We publicly release our code and data.",
+    arxiv={2505.21693},
+    code={https://github.com/mainlp/MAKIEval},
+    preview={EMNLP2025_MAKI_preview.png}
+}
+
+
+
 @inproceedings{chen-etal-2025-rose,
     title = "A Rose by Any Other Name: {LLM}-Generated Explanations Are Good Proxies for Human Explanations to Collect Label Distributions on {NLI}",
     author = "Chen, Beiduo  and
