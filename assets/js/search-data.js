@@ -96,6 +96,9 @@ ninja.data = [{
           section: "News",},{id: "news-tada-our-emnlp-2025-main-paper-threading-the-needle-reweaving-chain-of-thought-reasoning-to-explain-human-label-variation-has-been-selected-as-oral-presentation",
           title: ':tada: Our EMNLP 2025 Main Paper Threading the Needle: Reweaving Chain-of-Thought Reasoning to...',
           description: "",
+          section: "News",},{id: "news-sparkles-start-my-ellis-ph-d-exchange-at-ltl-university-of-cambridge-for-one-month",
+          title: ':sparkles: Start my ELLIS Ph.D. exchange at LTL, University of Cambridge for one...',
+          description: "",
           section: "News",},{
       id: 'light-theme',
       title: 'Change theme to light',
