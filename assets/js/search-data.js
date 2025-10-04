@@ -99,6 +99,9 @@ ninja.data = [{
           section: "News",},{id: "news-sparkles-start-my-ellis-ph-d-exchange-at-ltl-university-of-cambridge-for-one-month",
           title: ':sparkles: Start my ELLIS Ph.D. exchange at LTL, University of Cambridge for one...',
           description: "",
+          section: "News",},{id: "news-microphone-invited-talk-on-explanation-based-human-label-variation-modeling-at-language-technology-lab-seminars-at-university-of-cambridge-united-kingdom",
+          title: ':microphone: Invited Talk on Explanation-based Human Label Variation Modeling at Language Technology Lab...',
+          description: "",
           section: "News",},{
       id: 'light-theme',
       title: 'Change theme to light',
