@@ -105,6 +105,9 @@ ninja.data = [{
           section: "News",},{id: "news-microphone-invited-talk-on-from-explanation-lines-to-a-comprehensive-ellipse-modeling-rational-variation-with-llms-at-dealing-with-meaning-variation-in-nlp-3rd-yearly-workshop-at-utrecht-university-netherlands",
           title: ':microphone: Invited Talk on From “Explanation Lines” to a “Comprehensive Ellipse” — Modeling...',
           description: "",
+          section: "News",},{id: "news-mahjong-i-ll-be-at-suzhou-to-present-our-paper-threading-the-needle-oral-litex-poster-and-maki-poster-on-emnlp-2025",
+          title: ':mahjong: I’ll be at Suzhou to present our paper “Threading the Needle”(Oral), “LiTEx”(Poster),...',
+          description: "",
           section: "News",},{
       id: 'light-theme',
       title: 'Change theme to light',
