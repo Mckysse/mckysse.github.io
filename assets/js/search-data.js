@@ -102,6 +102,9 @@ ninja.data = [{
           section: "News",},{id: "news-microphone-invited-talk-on-explanation-based-human-label-variation-modeling-at-language-technology-lab-seminars-at-university-of-cambridge-united-kingdom",
           title: ':microphone: Invited Talk on Explanation-based Human Label Variation Modeling at Language Technology Lab...',
           description: "",
+          section: "News",},{id: "news-microphone-invited-talk-on-from-explanation-lines-to-a-comprehensive-ellipse-modeling-rational-variation-with-llms-at-dealing-with-meaning-variation-in-nlp-3rd-yearly-workshop-at-utrecht-university-netherlands",
+          title: ':microphone: Invited Talk on From “Explanation Lines” to a “Comprehensive Ellipse” — Modeling...',
+          description: "",
           section: "News",},{
       id: 'light-theme',
       title: 'Change theme to light',
