@@ -108,6 +108,9 @@ ninja.data = [{
           section: "News",},{id: "news-mahjong-i-ll-be-at-suzhou-to-present-our-papers-threading-the-needle-oral-litex-poster-and-maki-poster-on-emnlp-2025",
           title: ':mahjong: I’ll be at Suzhou to present our papers “Threading the Needle”(Oral), “LiTEx”(Poster),...',
           description: "",
+          section: "News",},{id: "news-trophy-our-emnlp-2025-main-paper-litex-has-been-selected-as-sac-highlights-award-amp-lt-1-acceptance-huge-thanks-to-all-wonderful-co-authors",
+          title: ':trophy: Our EMNLP 2025 Main paper LiTEx has been selected as SAC Highlights...',
+          description: "",
           section: "News",},{
       id: 'light-theme',
       title: 'Change theme to light',
