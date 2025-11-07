@@ -111,6 +111,9 @@ ninja.data = [{
           section: "News",},{id: "news-trophy-our-emnlp-2025-main-paper-litex-has-been-selected-as-sac-highlights-award-amp-lt-1-acceptance-huge-thanks-to-all-wonderful-co-authors",
           title: ':trophy: Our EMNLP 2025 Main paper LiTEx has been selected as SAC Highlights...',
           description: "",
+          section: "News",},{id: "news-microphone-invited-panelist-on-4th-workshop-on-perspectivist-approaches-to-nlp-nlperspectives-emnlp-2025-suzhou-china",
+          title: ':microphone: Invited Panelist on 4th Workshop on Perspectivist Approaches to NLP (NLPerspectives) @...',
+          description: "",
           section: "News",},{
       id: 'light-theme',
       title: 'Change theme to light',
