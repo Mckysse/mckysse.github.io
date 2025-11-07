@@ -6,4 +6,4 @@ inline: true
 related_posts: false
 ---
 
-:tada: Our EMNLP 2025 Main Paper [Threading the Needle: Reweaving Chain-of-Thought Reasoning to Explain Human Label Variation](https://arxiv.org/abs/2505.23368) has been selected as Oral Presentation.
+:tada: Our EMNLP 2025 Main Paper [Threading the Needle: Reweaving Chain-of-Thought Reasoning to Explain Human Label Variation](https://aclanthology.org/2025.emnlp-main.1682/) has been selected as Oral Presentation (<3% acceptance).
