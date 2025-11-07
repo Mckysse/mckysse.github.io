@@ -5,6 +5,6 @@ inline: true
 related_posts: false
 ---
 
-:trophy: Our EMNLP 2025 Main paper [LiTEx]((https://aclanthology.org/2025.emnlp-main.1728/)) has been selected as SAC Highlights Award (<1% acceptance)! Huge thanks to all wonderful co-authors. 
+:trophy: Our EMNLP 2025 Main paper [LiTEx](https://aclanthology.org/2025.emnlp-main.1728/) has been selected as SAC Highlights Award (<1% acceptance)! Huge thanks to all wonderful co-authors. 
 
 <!-- A simple inline announcement with Markdown emoji! :sparkles: :smile: -->
