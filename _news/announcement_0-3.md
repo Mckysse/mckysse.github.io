@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-:tada: Award by the China National Scholarship, USTC.
+:trophy: Award by the China National Scholarship, USTC.
