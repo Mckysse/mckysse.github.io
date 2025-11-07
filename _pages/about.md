@@ -43,9 +43,9 @@ Before that, I received my Master and Bachelor's degree with an outstanding grad
 
 My main research interests lie within deep learning for natural language processing, and I am particularly interested in multilingualism and human-centered NLP.
 
-- **Humen-centered NLP :** human-centered evaluation on LLMs ([Chen et al., 2024](https://aclanthology.org/2024.findings-emnlp.842/); [Hong and Chen et al., 2025](https://arxiv.org/abs/2505.22848)), explanation-based ([Chen et al., 2025a](https://aclanthology.org/2025.findings-acl.562/)) and chain-of-thoughts-based ([Chen et al., 2025b](https://arxiv.org/abs/2505.23368)) HLV alignment, human-inspired pre-training ([Chen et al., 2023](https://aclanthology.org/2023.findings-acl.9/)).
+- **Humen-centered NLP :** human-centered evaluation on LLMs ([Chen et al., 2024](https://aclanthology.org/2024.findings-emnlp.842/); [Hong and Chen et al., 2025](https://aclanthology.org/2025.emnlp-main.1728/)), explanation-based ([Chen et al., 2025a](https://aclanthology.org/2025.findings-acl.562/)) and chain-of-thoughts-based ([Chen et al., 2025b](https://aclanthology.org/2025.emnlp-main.1682/)) HLV alignment, human annotation disgreement([Hong et al. 2025](https://arxiv.org/abs/2510.16458)), human-inspired pre-training ([Chen et al., 2023](https://aclanthology.org/2023.findings-acl.9/)).
 
-- **Mulgilingualism :** cross-lingual transfer([Ma and Chen et al., 2022](https://aclanthology.org/2022.emnlp-main.345/); [Chen et al., 2022c](https://ieeexplore.ieee.org/document/9956721)), cross-lingual post-training ([Chen et al., 2022a](https://ieeexplore.ieee.org/document/9747720)), multilingual adaptation([Chen et al., 2022b](https://aclanthology.org/2022.semeval-1.223/)), multilingual evaluation on LLMs ([Zhao et al., 2025](https://arxiv.org/abs/2505.21693)).
+- **Mulgilingualism :** cross-lingual transfer([Ma and Chen et al., 2022](https://aclanthology.org/2022.emnlp-main.345/); [Chen et al., 2022c](https://ieeexplore.ieee.org/document/9956721)), cross-lingual post-training ([Chen et al., 2022a](https://ieeexplore.ieee.org/document/9747720)), multilingual adaptation([Chen et al., 2022b](https://aclanthology.org/2022.semeval-1.223/)), multilingual evaluation on LLMs ([Zhao et al., 2025](https://aclanthology.org/2025.findings-emnlp.1256/)).
 
 Feel free to reach out if you're interested in topics related to NLP and LLM!
 
