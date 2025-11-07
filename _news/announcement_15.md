@@ -5,6 +5,6 @@ inline: true
 related_posts: false
 ---
 
-:mahjong: I'll be at Suzhou to present our papers ["Threading the Needle"](https://arxiv.org/abs/2505.23368)(Oral), ["LiTEx"](https://arxiv.org/abs/2505.22848)(Poster), and ["MAKI"](https://arxiv.org/abs/2505.21693)(Poster) on EMNLP 2025. 
+:mahjong: I'll be at Suzhou to present our papers ["Threading the Needle"](https://aclanthology.org/2025.emnlp-main.1682/)(Oral), ["LiTEx"](https://aclanthology.org/2025.emnlp-main.1728/)(Poster), and ["MAKI"](https://aclanthology.org/2025.findings-emnlp.1256/)(Poster) on EMNLP 2025. 
 
 <!-- A simple inline announcement with Markdown emoji! :sparkles: :smile: -->
