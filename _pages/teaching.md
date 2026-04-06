@@ -10,7 +10,7 @@ nav_order: 4
 ---
 #### LMU Munich
 - Symbolische Programmiersprache (Winter 24/25, Winter 25/26)
-- Information Retrieval (Summer 2025)
+- Information Retrieval (Summer 2025, Summer 2026)
 - LLM Agents Erweiterungsmodul Computerlinguistik (Summer 2025)
 - Multi-modal NLP Übung Erweiterungsmodul Computerlinguistik (Summer 2024)
 - Explaining and Interpreting Annotations in NLP Seminar (Winter 25/26)
@@ -33,6 +33,8 @@ nav_order: 4
 I supervise B.Sc. and M.Sc. theses on topics related to my own research (examiner: Barbara Plank). For more information, please check [this website](https://mainlp.github.io/thesis/). Thesis projects I've supervised so far:
 
 - **Pingjun Hong**: Within-Label Variation in Natural Language Inference: A Linguistic Taxonomy for Explanations and Its Impact on Model Interpretation of Label Decisions (MSc Thesis, Summer 2025). Now Ph.D. student at University of Vienna. Her first academic paper [LiTEx](https://aclanthology.org/2025.emnlp-main.1728/), derived from her Master’s thesis, was accepted to the [EMNLP 2025](https://2025.emnlp.org/) Main Conference and received the **SAC Highlights Award** (top 1% acceptance rate).
+- **Xinyuan Cheng**: Measuring the Quality of Chain-of-Thought in Reasoning-Tuned Large Language Models via Cross-Model Utility (MSc Thesis, Summer 2026)
+- **Liuhui Zhu**: Beyond Majority Vote: Structured Aggregation of Reasoning Trajectories in Multi-Agent LLM Debate (MSc Thesis, Summer 2026)
 - **Vu Thanh Trung Bui**: Exploring Multilingual Capabilities in Large Language Models with Soft Prompt Tuning (BSc Thesis, Winter 24/25)
 
 
