@@ -1,7 +1,7 @@
 ---
 layout: post
 # title: Two papers accepted to ACL 2026!
-date: 2025-08-20 16:11:00-0400
+date: 2026-04-06 16:11:00-0400
 inline: true
 related_posts: false
 ---
