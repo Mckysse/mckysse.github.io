@@ -41,13 +41,16 @@ Before that, I received my Master and Bachelor's degree with an outstanding grad
 ---
 #### **Research Interests**
 
-My main research interests lie within deep learning for natural language processing, and I am particularly interested in multilingualism and human-centered NLP.
+My main research interests lie within deep learning for natural language processing, with a particular focus on **Large Language Models (LLMs)**, **human-centered NLP**, and **multilingualism**.
 
-- **Humen-centered NLP :** human-centered evaluation on LLMs ([Chen et al., 2024](https://aclanthology.org/2024.findings-emnlp.842/); [Hong and Chen et al., 2025](https://aclanthology.org/2025.emnlp-main.1728/)), explanation-based ([Chen et al., 2025a](https://aclanthology.org/2025.findings-acl.562/)) and reasoning-based ([Chen et al., 2025b](https://aclanthology.org/2025.emnlp-main.1682/); [Chen et al., 2026a](https://arxiv.org/abs/2601.03154)) HLV alignment, human annotation disgreement([Hong and Chen et al., 2026](https://arxiv.org/abs/2510.16458)), human-inspired pre-training ([Chen et al., 2023](https://aclanthology.org/2023.findings-acl.9/)).
+- **LLM Reasoning, Uncertainty & Evaluation:** Investigating Chain-of-Thought (CoT) reasoning mechanisms ([Chen et al., 2025b](https://aclanthology.org/2025.emnlp-main.1682/); [Chen et al., 2026a](https://arxiv.org/abs/2601.03154)), modeling LLM uncertainty through human judgment distributions ([Chen et al., 2024](https://aclanthology.org/2024.findings-emnlp.842/)), and developing robust evaluation frameworks for cultural awareness ([Zhao et al., 2025](https://aclanthology.org/2025.findings-emnlp.1256/)).
 
-- **Mulgilingualism :** cross-lingual transfer([Ma and Chen et al., 2022](https://aclanthology.org/2022.emnlp-main.345/); [Chen et al., 2022c](https://ieeexplore.ieee.org/document/9956721)), cross-lingual post-training ([Chen et al., 2022a](https://ieeexplore.ieee.org/document/9747720)), multilingual adaptation([Chen et al., 2022b](https://aclanthology.org/2022.semeval-1.223/)), multilingual evaluation on LLMs ([Zhao et al., 2025](https://aclanthology.org/2025.findings-emnlp.1256/)).
+- **Humen-centered NLP :** Decomposing human annotation disagreement ([Hong and Chen et al., 2026](https://arxiv.org/abs/2510.16458)), exploring explanation-based alignment and within-label variation ([Chen et al., 2025a](https://aclanthology.org/2025.findings-acl.562/); [Hong and Chen et al., 2025](https://aclanthology.org/2025.emnlp-main.1728/)), and developing human-inspired pre-training strategies ([Chen et al., 2023](https://aclanthology.org/2023.findings-acl.9/)).
 
-Feel free to reach out if you're interested in topics related to NLP and LLM!
+- **Mulgilingualism :** Advancing cross-lingual transfer ([Ma and Chen et al., 2022](https://aclanthology.org/2022.emnlp-main.345/); [Chen et al., 2022c](https://ieeexplore.ieee.org/document/9956721)), cross-lingual post-training ([Chen et al., 2022a](https://ieeexplore.ieee.org/document/9747720)), and multilingual adaptation ([Chen et al., 2022b](https://aclanthology.org/2022.semeval-1.223/)).
+
+Feel free to reach out if you’re interested in topics related to NLP and LLMs!
+
 
 <p>&nbsp;</p>
 
