@@ -117,6 +117,9 @@ ninja.data = [{
           section: "News",},{id: "news-blue-book-two-papers-accepted-to-acl-2026-2-findings",
           title: ':blue_book: Two papers accepted to ACL 2026 (2 findings)!',
           description: "",
+          section: "News",},{id: "news-sailboat-i-ll-be-at-san-diego-to-present-our-papers-decoupling-cot-poster-and-litex-ver2-poster-on-acl-2026",
+          title: ':sailboat: I’ll be at San Diego to present our papers “Decoupling CoT”(Poster), and...',
+          description: "",
           section: "News",},{
       id: 'light-theme',
       title: 'Change theme to light',
