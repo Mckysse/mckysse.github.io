@@ -55,29 +55,35 @@
     preview={Arxiv2026_Rationale_preview.png}
 }
 
-
-@inproceedings{chen-etal-2026-CoTHLV,
+@inproceedings{chen-etal-2026-decoupling,
     title = "Decoupling the Effect of Chain-of-Thought Reasoning: A Human Label Variation Perspective",
     author = "Chen, Beiduo  and
       Hu, Tiancheng  and
       Zhang, Caiqi  and
+      Litschko, Robert  and
       Korhonen, Anna  and
       Plank, Barbara",
-    booktitle = "Findings of the Association for Computational Linguistics: ACL 2026",
+    editor = "Liakata, Maria  and
+      Moreira, Viviane P.  and
+      Zhang, Jiajun  and
+      Jurgens, David",
+    booktitle = "Findings of the {A}ssociation for {C}omputational {L}inguistics: {ACL} 2026",
     month = jul,
     year = "2026",
-    address = "San Diego, California",
+    address = "San Diego, California, United States",
     publisher = "Association for Computational Linguistics",
-    url = "https://doi.org/10.48550/arXiv.2601.03154",
-    doi = "10.48550/ARXIV.2601.03154",
-    arxiv={2601.03154},
+    url = "https://aclanthology.org/2026.findings-acl.1103/",
+    doi = "10.18653/v1/2026.findings-acl.1103",
+    pages = "21931--21951",
+    ISBN = "979-8-89176-395-1",
+    abstract = "Reasoning-tuned LLMs utilizing long Chain-of-Thought (CoT) excel at single-answer tasks, yet their ability to model Human Label Variation{---}which requires capturing probabilistic ambiguity rather than resolving it{---}remains underexplored. We investigate this through systematic disentanglement experiments on distribution-based tasks, employing Cross-CoT experiments to isolate the effect of reasoning text from intrinsic model priors. We observe a distinct ``decoupled mechanism'': while CoT improves distributional alignment, final accuracy is dictated by CoT content (99{\%} variance contribution), whereas distributional ranking is governed by model priors (over 80{\%}). Step-wise analysis further shows that while CoT{'}s influence on accuracy grows monotonically during the reasoning process, distributional structure is largely determined by LLM{'}s intrinsic priors. These findings suggest that long CoT serves as a decisive LLM decision-maker for the top option but fails to function as a granular distribution calibrator for ambiguous tasks.",
     code={https://github.com/mainlp/CoT-HLV},
     poster={ACL2026_CoTHLV_poster.pdf},
     slides={ACL2026_CoTHLV_slides.pdf},
     preview={ACL2026_CoTHLV_preview.png}
 }
 
-@inproceedings{hong-etal-2026-Taxonomy,
+@inproceedings{hong-etal-2026-agree,
     title = "Agree, Disagree, Explain: Decomposing Human Label Variation in {NLI} through the Lens of Explanations",
     author = "Hong*, Pingjun  and
       Chen*, Beiduo  and
@@ -85,13 +91,20 @@
       de Marneffe, Marie-Catherine  and
       Roth, Benjamin  and
       Plank, Barbara",
-    booktitle = "Findings of the Association for Computational Linguistics: ACL 2026",
+    editor = "Liakata, Maria  and
+      Moreira, Viviane P.  and
+      Zhang, Jiajun  and
+      Jurgens, David",
+    booktitle = "Findings of the {A}ssociation for {C}omputational {L}inguistics: {ACL} 2026",
     month = jul,
     year = "2026",
-    address = "San Diego, California",
+    address = "San Diego, California, United States",
     publisher = "Association for Computational Linguistics",
-    url = "https://doi.org/10.48550/arXiv.2510.16458",
-    doi = "10.48550/ARXIV.2510.16458",
+    url = "https://aclanthology.org/2026.findings-acl.1342/",
+    doi = "10.18653/v1/2026.findings-acl.1342",
+    pages = "26922--26934",
+    ISBN = "979-8-89176-395-1",
+    abstract = "Natural Language Inference (NLI) datasets often exhibit human label variation. To better understand these variations, explanation-based approaches analyze the underlying reasoning behind annotators' decisions. One such approach is the LiTEx taxonomy, which categorizes free-text explanations in English into reasoning categories. However, previous work applying LiTEx has focused on within-label variation: cases where annotators agree on the NLI label but provide different explanations. This paper broadens the scope by examining how annotators may diverge not only in the reasoning category but also in the labeling. We use explanations as a lens to analyze variation in NLI annotations and to examine individual differences in reasoning. We apply LiTEx to two NLI datasets and align annotation variation from multiple aspects: NLI label agreement, explanation similarity, and taxonomy agreement, with an additional compounding factor of annotators' selection bias. We observe instances where annotators disagree on the label but provide similar explanations, suggesting that surface-level disagreement may mask underlying agreement in interpretation. Moreover, our analysis reveals individual preferences in explanation strategies and label choices. These findings highlight that agreement in reasoning categories better reflects the semantic similarity of explanations than label agreement alone. Our findings underscore the richness of reasoning-based explanations and the need for caution in treating labels as ground truth.",
     arxiv={2510.16458},
     code={https://github.com/mainlp/LiTEx-NLI-extension},
     poster={ACL2026_ADE_poster.pdf},
